@@ -50,10 +50,12 @@ p-1 {
 
 #portfolio {
     border-top: 1px dotted;
+    text-align: center;
 }
 
 .portfolio-post {
-    border-bottom: 1px dotted;
+    border-bottom: 1px dotted; 
+    text-align: center;
 }
 
 
