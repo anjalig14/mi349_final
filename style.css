@@ -131,7 +131,7 @@ article:nth-of-type(3) {}
 }
   
 .navigation a:hover {
-    background: #f4f2f0;
+    background: #b4a79e;
 }
   
 @media all and (max-width: 800px) {
