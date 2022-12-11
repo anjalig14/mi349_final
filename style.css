@@ -87,6 +87,7 @@ header {
 section {
     background: #e6dcd4;
     display: flex;
+    text-align: center;
 }
 
 aside {
@@ -101,10 +102,9 @@ div {
 
   
 article {
-    background: none;
+    background: #e6dcd4;
     padding: 20px;
     margin: 20px;
-    text-align: center;
 }
 
 article:nth-of-type(2) {}
@@ -168,7 +168,7 @@ article:nth-of-type(3) {}
 .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 40px 40px;
+    grid-template-rows: 45px 45px;
     grid-gap: 10px;
 }  
 
