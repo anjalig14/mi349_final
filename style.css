@@ -9,16 +9,17 @@ html {
     src: url('../fonts/BebasNeue/BebasNeue Thin.otf') format('opentype');
 }
 
-#pic {
-    width: 600px;
-    height: 600px;
-    margin: 0 auto;
+.grid { 
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    align-items: stretch;
 }
 
-#pic > img {
-    float: left;
-    width: 5%;
-    margin: 1.66%;
+.grid img {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+    max-width: 100%;
 }
 
 body {
