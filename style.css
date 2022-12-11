@@ -12,12 +12,12 @@ html {
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding: 1 4px;
 }
   
 .column {
     flex: 50%;
-    padding: 0 4px;
+    padding: 1 4px;
 }
   
 .column img {
