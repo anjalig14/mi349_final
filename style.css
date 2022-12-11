@@ -1,5 +1,5 @@
 html {
-    background: #f1f1f1;
+    background: #ffff;
 }
 
 @font-face {
@@ -27,7 +27,7 @@ body {
     padding: 40px;
     color:#242424;
     border-top: 10px solid #242424;
-    background: #fff;
+    background: #f1f1f1;
 }
 
 .header {
