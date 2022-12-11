@@ -42,7 +42,9 @@ h1 {
 
 h2 {
     background: linear-gradient(to bottom, transparent 30%, #74675d 70%); 
-    font-style:normal
+    font-style:normal;
+    width: 15px;
+    height: 5px;
 }
 
 h3 {
