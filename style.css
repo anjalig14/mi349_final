@@ -9,19 +9,16 @@ html {
     src: url('../fonts/BebasNeue/BebasNeue Thin.otf') format('opentype');
 }
 
-.row {
-    flex: 50%;
-    padding: 10px;
+#pic {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
 }
-  
-.column {
-    flex: 50%;
-    padding: 10px;
-}
-  
-.column img {
-    margin-top: 8px;
-    vertical-align: middle;
+
+#pic > img {
+    float: left;
+    width: 5%;
+    margin: 1.66%;
 }
 
 body {
