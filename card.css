@@ -18,6 +18,12 @@ body {
     background: #fff;
 }
 
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
 h1 {
     font-size: 3mm;
     margin: 0;
@@ -62,7 +68,7 @@ body {
     color: black;
 }
   
-.header {
+header {
     background: #d3c0b2;
     
 }
