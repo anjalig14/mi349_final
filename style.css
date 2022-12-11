@@ -94,7 +94,7 @@ div {
 
   
 article {
-    background: #d7d2ce;
+    background: none;
     padding: 20px;
     margin: 20px;
 }
@@ -167,21 +167,25 @@ article:nth-of-type(3) {}
 #c1 {
     grid-column: 1;
     grid-row: 2;
+    color: #f1f1f1; 
 }
 
 #c2 {
     grid-column: 2/3;
     grid-row: 2;
+    color: #f1f1f1;
 }
 
 #c3 {
     grid-column: 3;
     grid-row: 2;
+    color: #f1f1f1;
 }
 
 #c4 {
     grid-column: 4;
     grid-row: 2;
+    color: #f1f1f1;
 }
 
 @media (max-width: 400px) {
