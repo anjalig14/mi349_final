@@ -13,6 +13,7 @@ html {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 20px;
+    align-items: stretch;
 }
 
 .grid img {
@@ -212,7 +213,7 @@ article:nth-of-type(3) {}
 
 @media (max-width: 400px) {
     #c1 {
-        background: #d3c0b2;
+        background: #F0EAE7;
     }
 }
 
