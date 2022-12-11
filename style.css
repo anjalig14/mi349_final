@@ -10,7 +10,6 @@ html {
 }
 
 .row {
-    display: flex;
     flex: 50%;
     padding: 10px;
 }
