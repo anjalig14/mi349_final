@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-    background: linear-gradient(to bottom, transparent 30%, #74675d 70%); 
+    background: linear-gradient(to bottom, transparent 50%, #74675d 70%); 
     font-style:normal;
     width: 160px;
     height: 20px;
