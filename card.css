@@ -1,5 +1,12 @@
 html {
-    background: #d7d2ce;
+    background: #e6dcd4;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    font-weight: 100;
+    font-style: normal;
+    src: url('../fonts/BebasNeue/BebasNeue Thin.otf') format('opentype');
 }
 
 body {
@@ -20,11 +27,11 @@ p {
     line-height: 1.4em;
 }
 
-#blog {
+#portfolio {
     border-top: 1px dotted #f4f2f0;
 }
 
-.blog-post {
+.portfolio-post {
     border-bottom: 1px dotted #f4f2f0;
 }
 
@@ -55,7 +62,7 @@ body {
     color: black;
 }
   
-header {
+.header {
     background: #d3c0b2;
     
 }
