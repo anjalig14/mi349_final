@@ -40,9 +40,10 @@ h1 {
     margin: 0;
 }
 
-h2 em {
+h2 {
     background: linear-gradient(to bottom, transparent 30%, #74675d 70%); 
-    font-style:normal}
+    font-style:normal
+}
 
 h3 {
     font-size: 5mm;
