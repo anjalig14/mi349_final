@@ -125,6 +125,7 @@ section {
 aside {
   background: #d7d2ce;
   flex: 1;
+  margin: auto;
 }
 
 div {
@@ -136,7 +137,8 @@ div {
 article {
     background: #e6dcd4;
     padding: 20px;
-    margin: 20px;
+    margin: auto;
+    
 }
 
 article:nth-of-type(2) {}
