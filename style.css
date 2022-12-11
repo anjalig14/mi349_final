@@ -1,5 +1,5 @@
 html {
-    background: #e6dcd4;
+    background: #f1f1f1;
 }
 
 @font-face {
@@ -20,7 +20,6 @@ body {
 
 .header {
     background-color: none;
-    text-align: center;
     padding: 20px;
 }
 
@@ -30,7 +29,7 @@ h1 {
 }
 
 h3 {
-    font-size: 3mm;
+    font-size: 7mm;
     text-align: center;
     margin: 0;
 }
@@ -40,11 +39,11 @@ p {
 }
 
 #portfolio {
-    border-top: 1px dotted #f4f2f0;
+    border-top: 1px dotted;
 }
 
 .portfolio-post {
-    border-bottom: 1px dotted #f4f2f0;
+    border-bottom: 1px dotted;
 }
 
 
@@ -80,7 +79,7 @@ header {
 }
   
 section {
-    background: #d3c0b2;
+    background: #e6dcd4;
     display: flex;
 }
 
