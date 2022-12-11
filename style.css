@@ -40,6 +40,10 @@ h1 {
     margin: 0;
 }
 
+h2 em {
+    background: linear-gradient(to bottom, transparent 30%, #74675d 70%); 
+    font-style:normal}
+
 h3 {
     font-size: 5mm;
     margin: 0;
@@ -107,7 +111,7 @@ body {
 }
   
 header {
-    background: #b4a79e;
+    background: #e6dcd4;
     
 }
   
