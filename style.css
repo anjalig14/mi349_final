@@ -62,7 +62,7 @@ p {
     justify-content: space-between;
     padding: 40px;
     width: auto;
-    margin: center;
+    margin: 10rem auto 0 auto;
 }
 
 .section img {
