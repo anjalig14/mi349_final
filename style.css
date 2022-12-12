@@ -36,11 +36,13 @@ body {
 }
 
 h1 {
+    font-family: 'BebasNeue';
     font-size: 5mm;
     margin: 0;
 }
 
 h2 {
+    font-family: 'BebasNeue';
     background: linear-gradient(to bottom, transparent 50%, #74675d 70%); 
     font-style:normal;
     width: 160px;
@@ -55,12 +57,14 @@ h3 {
 }
 
 h3 {
+    font-family: 'BebasNeue';
     font-size: 5mm;
     margin: 0;
     text-align: center;
 }
 
 h4 {
+    font-family: 'BebasNeue';
     font-size: 7mm;
     margin: 0;
 }
