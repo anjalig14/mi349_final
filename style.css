@@ -63,6 +63,12 @@ h4 {
     margin: 0;
 }
 
+h5 {
+    font-size: 5mm;
+    margin: 0;
+    text-align: center;
+}
+
 p {
     font-family:'BebasNeue', Times, serif;
     line-height: 1.4em;
