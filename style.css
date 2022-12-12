@@ -4,9 +4,9 @@ html {
 
 @font-face {
     font-family: 'BebasNeue';
-    font-weight: 100;
+    font-weight: 400;
     font-style: normal;
-    src: url('../fonts/BebasNeue/BebasNeue Thin.otf') format('opentype');
+    src: url('../fonts/BebasNeue/BebasNeue Regular.otf') format('opentype');
 }
 
 .grid { 
@@ -22,7 +22,6 @@ html {
 }
 
 body {
-    font-family: 'BebasNeue';
     margin: 40px;
     padding: 40px;
     color:#242424;
@@ -36,13 +35,11 @@ body {
 }
 
 h1 {
-    font-family: 'BebasNeue';
-    font-size: 5mm;
+    font-size: 7mm;
     margin: 0;
 }
 
 h2 {
-    font-family: 'BebasNeue', Fallback, sans-serif;
     background: linear-gradient(to bottom, transparent 50%, #74675d 70%); 
     font-style:normal;
     width: 160px;
@@ -51,26 +48,22 @@ h2 {
 }
 
 h3 {
-    font-family: 'BebasNeue', ;
     font-size: 5mm;
     margin: 0;
 }
 
 h3 {
-    font-family: 'BebasNeue';
     font-size: 5mm;
     margin: 0;
     text-align: center;
 }
 
 h4 {
-    font-family: 'BebasNeue';
-    font-size: 7mm;
+    font-size: 5mm;
     margin: 0;
 }
 
 p {
-    font-family: 'BebasNeue', Fallback, sans-serif;
     line-height: 1.4em;
 }
 
