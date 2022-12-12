@@ -120,6 +120,7 @@ section {
 aside {
   background: #d7d2ce;
   flex: 1;
+  text-align: center;
 }
 
 div {
