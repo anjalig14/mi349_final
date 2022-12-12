@@ -140,13 +140,11 @@ div {
   background: #e6dcd4;
   flex: 1;
 }
-
   
 article {
     background: #e6dcd4;
     padding: 20px;
-    margin: auto;
-    
+    margin: auto; 
 }
 
 article:nth-of-type(2) {}
