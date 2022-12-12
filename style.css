@@ -23,6 +23,11 @@ body {
     max-width: 100%;
 }
 
+.header {
+    background-color: none;
+    padding: 20px;
+}
+
 h1 {
     font-size: 7mm;
     margin: 0;
@@ -120,7 +125,6 @@ section {
 aside {
   background: #d7d2ce;
   flex: 1;
-  text-align: center;
 }
 
 div {
