@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'BebasNeue';
+    font-family: 'BebasNeue', Fallback, sans-serif;
     background: linear-gradient(to bottom, transparent 50%, #74675d 70%); 
     font-style:normal;
     width: 160px;
@@ -51,7 +51,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'BebasNeue';
+    font-family: 'BebasNeue', ;
     font-size: 5mm;
     margin: 0;
 }
@@ -70,7 +70,7 @@ h4 {
 }
 
 p {
-    font-family: 'BebasNeue';
+    font-family: 'BebasNeue', Fallback, sans-serif;
     line-height: 1.4em;
 }
 
