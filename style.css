@@ -49,11 +49,19 @@ h2 {
 }
 
 h3 {
+    font-family: 'BebasNeue';
     font-size: 5mm;
     margin: 0;
 }
 
+h3 {
+    font-size: 5mm;
+    margin: 0;
+    text-align: center;
+}
+
 p {
+    font-family: 'BebasNeue';
     line-height: 1.4em;
 }
 
