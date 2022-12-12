@@ -2,6 +2,15 @@ html {
     background: #ffff;
 }
 
+body {
+    font-family: sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color:#242424;
+    border-top: 10px solid #242424;
+    background: #f1f1f1;
+}
+
 .grid { 
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -12,20 +21,6 @@ html {
 .grid img {
     box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
     max-width: 100%;
-}
-
-body {
-    font-family: sans-serif;
-    margin: 40px;
-    padding: 40px;
-    color:#242424;
-    border-top: 10px solid #242424;
-    background: #f1f1f1;
-}
-
-.header {
-    background-color: none;
-    padding: 20px;
 }
 
 h1 {
@@ -120,13 +115,11 @@ header {
 section {
     background: #e6dcd4;
     display: flex;
-    text-align: center;
 }
 
 aside {
   background: #d7d2ce;
   flex: 1;
-  margin: auto;
 }
 
 div {
