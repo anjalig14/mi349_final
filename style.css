@@ -194,7 +194,7 @@ article:nth-of-type(3) {}
 .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 70px 70px;
+    grid-template-rows: 50px 50px;
     grid-gap: 10px;
 }  
 
@@ -228,15 +228,6 @@ article:nth-of-type(3) {}
 
 @media (max-width: 400px) {
     #c1 {
-        background: #F0EAE7;
-    }
-    #c2{
-        background: #F0EAE7;
-    }
-    #c3 {
-        background: #F0EAE7;
-    }
-    #c4 {
         background: #F0EAE7;
     }
 }
